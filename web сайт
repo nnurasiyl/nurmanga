@@ -1,0 +1,12 @@
+<script>start("c:\\Users\\nnura\\.vscode\\web сайт\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("b.html","b.html",0,3077,"3.0 kB",1765017972,"12/6/25, 3:46:12 PM");</script>
+<script>addRow("catalog1.html","catalog1.html",0,9196,"9.0 kB",1763813221,"11/22/25, 5:07:01 PM");</script>
+<script>addRow("catalog2.html","catalog2.html",0,5080,"5.0 kB",1763812720,"11/22/25, 4:58:40 PM");</script>
+<script>addRow("details1.html","details1.html",0,15610,"15.2 kB",1762594446,"11/8/25, 2:34:06 PM");</script>
+<script>addRow("details2.html","details2.html",0,17417,"17.0 kB",1763813679,"11/22/25, 5:14:39 PM");</script>
+<script>addRow("index.html","index.html",0,988,"988 B",1761992788,"11/1/25, 3:26:28 PM");</script>
+<script>addRow("login.html","login.html",0,2127,"2.1 kB",1762844299,"11/11/25, 11:58:19 AM");</script>
+<script>addRow("register.html","register.html",0,0,"0 B",1762598443,"11/8/25, 3:40:43 PM");</script>
+<script>addRow("style.css","style.css",0,5016,"4.9 kB",1765018793,"12/6/25, 3:59:53 PM");</script>
+<script>addRow("style.js","style.js",0,1465,"1.4 kB",1765021462,"12/6/25, 4:44:22 PM");</script>
